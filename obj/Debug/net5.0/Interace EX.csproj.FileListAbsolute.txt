@@ -1,0 +1,16 @@
+C:\Users\Leandro\Desktop\Interace EX\bin\Debug\net5.0\Interace EX.exe
+C:\Users\Leandro\Desktop\Interace EX\bin\Debug\net5.0\Interace EX.deps.json
+C:\Users\Leandro\Desktop\Interace EX\bin\Debug\net5.0\Interace EX.runtimeconfig.json
+C:\Users\Leandro\Desktop\Interace EX\bin\Debug\net5.0\Interace EX.runtimeconfig.dev.json
+C:\Users\Leandro\Desktop\Interace EX\bin\Debug\net5.0\Interace EX.dll
+C:\Users\Leandro\Desktop\Interace EX\bin\Debug\net5.0\ref\Interace EX.dll
+C:\Users\Leandro\Desktop\Interace EX\bin\Debug\net5.0\Interace EX.pdb
+C:\Users\Leandro\Desktop\Interace EX\obj\Debug\net5.0\Interace EX.csprojAssemblyReference.cache
+C:\Users\Leandro\Desktop\Interace EX\obj\Debug\net5.0\Interace EX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leandro\Desktop\Interace EX\obj\Debug\net5.0\Interace EX.AssemblyInfoInputs.cache
+C:\Users\Leandro\Desktop\Interace EX\obj\Debug\net5.0\Interace EX.AssemblyInfo.cs
+C:\Users\Leandro\Desktop\Interace EX\obj\Debug\net5.0\Interace EX.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\Desktop\Interace EX\obj\Debug\net5.0\Interace EX.dll
+C:\Users\Leandro\Desktop\Interace EX\obj\Debug\net5.0\ref\Interace EX.dll
+C:\Users\Leandro\Desktop\Interace EX\obj\Debug\net5.0\Interace EX.pdb
+C:\Users\Leandro\Desktop\Interace EX\obj\Debug\net5.0\Interace EX.genruntimeconfig.cache
